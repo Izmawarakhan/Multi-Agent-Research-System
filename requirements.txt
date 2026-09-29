@@ -1,0 +1,29 @@
+# requirements.txt
+
+# LangChain and LCEL
+langchain
+langchain-core
+langchain-community
+
+# Multi-agent and ReAct agent
+langgraph
+
+# Groq API
+langchain-groq
+
+# Tavily Web Search (assuming you mean Tavily)
+tavily-python
+
+# Web Scraping
+beautifulsoup4
+requests
+
+# Environment Variables
+python-dotenv
+
+# Data Validation
+pydantic
+
+# Data Processing
+pandas
+lxml
